@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hola, mi nombre es Adri ! 👋
 
+### 🧑‍💻​ Sobre mi
+
+Soy SysAdmin con 6 años de experiencia en el mundo TI. Comencé como Administrador Middleware, centrandome más en la parte de servidores de aplicaciones. Durante estos últimos años, mi ROL ha ido cambiando.
+En estos ultimos meses, mi objetivo ha sido integrarme en la parte de DevOps y Clod.
 <!--
 **adrianibanezit/adrianibanezit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
